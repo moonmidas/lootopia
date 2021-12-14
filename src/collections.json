@@ -1,0 +1,12 @@
+[{
+    "name": "Character Loot",
+    "contract":"terra1e5p3yeuyw270mvydkxj3ewjkck8eh33fdj7q3d",
+    "can_mint": true,
+    "loot_factory": "terra1k8jryjfeqtff3d9tucx0gk2l0h6h360452h989"  
+},
+{
+    "name": "Weapons Loot",
+    "contract":"terra14h2r8qpzj04sfev534qg9sv883thqpwv0jecu9",
+    "can_mint": true,
+    "loot_factory": "terra1d0wp3zvhcgj69j0fvg6kwqqf3pmk2c20aaz574"  
+}]
